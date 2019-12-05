@@ -2,6 +2,20 @@
 
 This is a beginners workshop for Node.js engineers who would like to work with Redis.
 
+## Approach
+
+In this workshop we'll get to know some of the data structures provided by Redis. We'll first use the Redis CLI tool (`redis-cli`, a REPL) to issue commands and see their responses. Then, we'll go ahead and write Node.js code to make use of the same data structures.
+
+Either check out this repository, or download a zip file of the repository. Inside you will find two directories. The first, `code/`, is where we'll write our application code. The second, `lessons/`, is where we'll be teaching from.
+
+## Takeaways
+
+Once the workshop is done, you'll understand a few things about Redis:
+
+- The basic data types
+- How to use Redis from a Node.js application
+- When to use Redis vs other technologies
+
 ## Pre-Requisites
 
 Try to do the following before coming to the workshop. If not, that's okay too.
