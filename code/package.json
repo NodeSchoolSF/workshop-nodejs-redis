@@ -1,0 +1,25 @@
+{
+  "name": "workshop-nodejs-redis",
+  "version": "0.0.1",
+  "description": "A beginners workshop for using Node.js with Redis",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeSchoolSF/workshop-nodejs-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "workshop",
+    "beginner"
+  ],
+  "author": "Thomas Hunter II <me@thomashunter.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeSchoolSF/workshop-nodejs-redis/issues"
+  },
+  "homepage": "https://github.com/NodeSchoolSF/workshop-nodejs-redis#readme",
+  "dependencies": {
+    "ioredis": "^4.14.1"
+  }
+}
